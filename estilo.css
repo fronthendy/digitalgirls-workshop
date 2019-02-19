@@ -2,6 +2,7 @@
 
 * {
     box-sizing: border-box;
+    -webkit-overflow-scrolling: touch;
 }
 
 html {
@@ -84,7 +85,7 @@ section#banner {
     align-items: center;
     text-align: center;
     background-image: url('imagens/hands.jpg');
-    background-position: bottom center;
+    background-position: center;
     background-attachment: fixed;
     background-size: 400px;
     background-repeat: no-repeat;
