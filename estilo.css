@@ -85,7 +85,7 @@ section#banner {
     align-items: center;
     text-align: center;
     background-image: url('imagens/hands.jpg');
-    background-position: center;
+    background-position: center bottom;
     background-attachment: fixed;
     background-size: 400px;
     background-repeat: no-repeat;
