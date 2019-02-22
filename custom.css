@@ -1,0 +1,59 @@
+section#banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url('imagens/hands.jpg');
+    background-position: center bottom;
+    background-attachment: fixed;
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-color: #f6d6d2;
+}
+section#banner h1 {
+    margin: 0 0 150px;
+    color: #a95248;
+    text-shadow: #ccc;
+    font-size: 50px;
+}
+
+section#sobre {
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    /* background-color: #a95248; */
+    color: #555;
+    /* text-align: center; */
+    min-height: auto;
+    margin: 30px 0;
+
+}
+
+section#sobre h2 {
+    font-size: 20px;
+}
+
+section#sobre iframe{
+    max-width: 100%;
+    margin: 30px auto;
+    float: none;
+    display: inherit;
+}
+
+
+section#galeria {
+    background-color: #786f6e;
+    color: #fff;
+}
+
+
+footer {
+    text-align: center;
+    background-color: #786f6e;
+    color: #fff;
+}
+
+footer p {
+    margin: 0;
+    padding: 20px 0;
+}
